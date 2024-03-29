@@ -1,0 +1,10 @@
+echo "# Projeto" >> README.md 
+git init 
+git add README.md 
+git add
+git commit -m "Adicionando códigos fontes"
+git push origin master
+git commit -m "primeiro commit" 
+git branch -M main 
+git remote add origin https://github.com/Code032024/Project.git
+ git push - sua origem principal
